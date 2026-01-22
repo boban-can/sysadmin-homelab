@@ -1,6 +1,3 @@
-# sysadmin-homelab
-Hands-on SysAdmin home lab documentation, automation, and projects.
-
 # SysAdmin Home Lab
 This repository documents my hands-on Systems Administration home lab.
 Focused on Windows environments, Active Directory, imaging, Intune,
