@@ -1,4 +1,4 @@
-#Preparing Environment - Windows 11 Laptop
+# Preparing Environment - Windows 11 Laptop
 Install Hyper-V - ran into the first issue, can't install Hyper-V.
 I went to enable it in the Windows Feature section and checked "Hyper-V Management Tools". However, "Hyper-V platform" is grayed out.
 Virtualization isn't enabled in BIOS/UEFI.
