@@ -1,7 +1,7 @@
 # SysAdmin Home Lab
 This repository documents my hands-on Systems Administration home lab.
 Focused on Windows environments, Active Directory, imaging, Intune,
-PowerShell automation, and best security practices.
+PowerShell automation, and best security practices. Also, this can help my fellow IT with home project ideas.
 
 # Goals
 - Practice real-world SysAdmin tasks
